@@ -1,0 +1,19 @@
+.container {
+  display: inline-block;
+  margin: 0px auto;
+  width: 500px;
+  padding: 10px 0px;
+}
+
+.labelContainer {
+  display: inline-block;
+  width: 200px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.inputContainer {
+  text-align: left;
+  display: inline-block;
+  width: 200px;
+}
