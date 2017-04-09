@@ -94,7 +94,7 @@ export default class PatientsList extends Component {
     var tableData;
     if(this.state.status === "LOADING") {
       var loading = (
-        <div className="fa fa-spinner" />
+        <div>Loading Data</div>
       )
     }
     else {
